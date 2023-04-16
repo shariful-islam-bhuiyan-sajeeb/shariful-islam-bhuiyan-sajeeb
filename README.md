@@ -20,12 +20,12 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="Shariful Islam Bhuiyan | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][Facebook]
-[<img align="left" alt="Shariful Islam Bhuiyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shariful Islam Bhuiyan | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />]
+[<img align="left" alt="Shariful Islam Bhuiyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Shariful Islam Bhuiyan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shariful Islam Bhuiyan| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shariful Islam Bhuiyan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="Shariful Islam Bhuiyan| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
 
