@@ -56,17 +56,5 @@ Programmer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
 # 🏅 Certificates:
-<p>
-Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03
-<img width="494" align="center" src="https://drive.google.com/file/d/1Qe01lv1mINrmJh_WES285Mrwf7tV8iEf/view?usp=sharing" alt="Sharifull Islam Bhuiyan"
-<img width="494" align="center" src="https://drive.google.com/file/d/1Qe01lv1mINrmJh_WES285Mrwf7tV8iEf/view?usp=sharing" alt="Sharifull Islam Bhuiyan" />
-</p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
 
