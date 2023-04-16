@@ -25,7 +25,6 @@ Programmer | Content Creator | Learner
 [<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="Shariful Islam Bhuiyan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Shariful Islam Bhuiyan| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
 
@@ -59,8 +58,8 @@ Programmer | Content Creator | Learner
 # 🏅 Certificates:
 <p>
 Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Kazi Mahbubur Rahman" />
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/Touch-Typing.jpg" alt="Kazi Mahbubur Rahman" />
+<img width="494" align="center" src="https://drive.google.com/file/d/1Qe01lv1mINrmJh_WES285Mrwf7tV8iEf/view?usp=sharing" alt="Sharifull Islam Bhuiyan"
+<img width="494" align="center" src="https://drive.google.com/file/d/1Qe01lv1mINrmJh_WES285Mrwf7tV8iEf/view?usp=sharing" alt="Sharifull Islam Bhuiyan" />
 </p>
 
 [website]: https://TechHelpBD.com
