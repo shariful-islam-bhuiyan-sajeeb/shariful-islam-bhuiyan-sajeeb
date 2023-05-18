@@ -1,60 +1,119 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Shariful Islam Bhuiyan</h1>
-<h3 align="center">¯\_(ツ)_/¯
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+<h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
+<h3 align="center">A Web Developer From BANGLADESH</h3>
+<img align="right" alt="Coding" width="300" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
 
-Programmer | Content Creator | Learner
+<br/>
+<br/>
 
-?></h3>
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+- ⏳ I’m currently working on **<Backend Development/>**.
 
-- 🔭 I’m currently working on **Web Development**
+- ⚡️ I’m currently learning **MERN Stack**.
 
-- 🌱 My programming language **JavaScript**
+- 🎯 I’ve too much interest in **APP Development.**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 🔍 I’m looking for help with **Database Management.**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Javascript, React.js, Node JS.**
 
-- 📫 How to reach me **sharifulislambhuiyan93@gmail.com**
+- 😁 Fun fact about me **I love to code at Night.**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- 📫 You can reach me through >> 📧 **jit.avi.saha2997@gmail.com**
 
-### Connect with me:
-
-[<img align="left" alt="Shariful Islam Bhuiyan | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />]
-[<img align="left" alt="Shariful Islam Bhuiyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="Shariful Islam Bhuiyan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Shariful Islam Bhuiyan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
-<br />
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
-<br />
-
-[![Shariful's github activity graph](https://activity-graph.heroku.app/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+- 💻 Personal Website (Portfolio) >> 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+<br/>  
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect With Me:</h3>
+<hr>
+<p align="left">
+    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
+    <a href="https://linkedin.com/in/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
+    <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
+    <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitsaha2997" height="30" width="40" /></a>
+    <a href="https://discord.gg/#1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1445" height="40" width="40" /></a>
+    <a href="https://codepen.io/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avijitsaha2997" height="30" width="40" /></a>
+    </p><br/> 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Shariful Islam Bhuiyan" /></p>
+
+<h3 align="left">Languages And Tools:</h3>
+<hr>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="35" height="35" /></a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38"
+            height="38" /> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
+            alt="bootstrap" width="40" height="35" /> </a>
+    </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+            height="40" /></a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            alt="photoshop" width="36" height="36" /></a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://reactnative.dev/img/header_logo.svg" alt="react" width="35" height="35" /> </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+            width="35" height="35" /></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
+            alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
+            src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"
+            alt="express" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://img.icons8.com/color/512/mongodb.png"
+            alt="mongodb" width="42" height="42" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"
+            alt="mysql" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+            height="40" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
+    </a>
+</p><br/> 
+
+
+<h3 align="left">Work Experiences And Interests:</h3>
+<hr>
+<p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
 
 
-# 🏅 Certificates:
+<h3 align="left">GitHub Info:</h3>
+<hr>
+<div align="center">
+    <img />
+ 
+ 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitsaha2997&theme=dark" alt="avijitsaha2997" /></p>
 
+    
+---
+    😇😇😇
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=000000&style=for-the-badge" alt="avijitsaha2997" /> </p>
+</div>
