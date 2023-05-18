@@ -18,9 +18,9 @@
 
 - 😁 Fun fact about me **I love to code at Night.**
 
-- 📫 You can reach me through >> 📧 **jit.avi.saha2997@gmail.com**
+- 📫 You can reach me through >> 📧 **sharifulislambhuiyan93@gmail.com**
 
-- 💻 Personal Website (Portfolio) >> 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+- 💻 Personal Website (Portfolio) >> 🌐 [https://shariful-islam-bhuiyan-fortfolio.netlify.app/](https://shariful-islam-bhuiyan-fortfolio.netlify.app/)
 <br/>  
 
 
