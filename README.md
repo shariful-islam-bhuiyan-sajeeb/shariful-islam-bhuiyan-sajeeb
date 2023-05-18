@@ -28,8 +28,8 @@
 <hr>
 <p align="left">
     <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
-    <a href="https://linkedin.com/in/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
-    <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
+    <a href="linkedin.com/in/shariful-islam-bhuiyan-4b3b60259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
+    <a href="https://web.facebook.com/profile.php?id=100008876146847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
     <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitsaha2997" height="30" width="40" /></a>
     <a href="https://discord.gg/#1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1445" height="40" width="40" /></a>
